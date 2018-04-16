@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Flags", "Flags\Flags.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Peaks", "Peaks\Peaks.csproj", "{FDE1320A-BF5F-4AD2-8185-8E93192953FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseArrayExercise", "ReverseArrayExercise\ReverseArrayExercise.csproj", "{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArrayExercise", "ReverseArrayExercise\ReverseArrayExercise.csproj", "{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountExercise", "CountExercise\CountExercise.csproj", "{45507D5A-A24B-403B-A554-61F9B27FB020}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -221,6 +223,10 @@ Global
 		{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45507D5A-A24B-403B-A554-61F9B27FB020}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45507D5A-A24B-403B-A554-61F9B27FB020}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45507D5A-A24B-403B-A554-61F9B27FB020}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45507D5A-A24B-403B-A554-61F9B27FB020}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -258,6 +264,7 @@ Global
 		{48A427E0-8812-4878-A870-E8D2FC9A3EC3} = {F64B57EF-37C4-4369-825D-DE03E7B82003}
 		{FDE1320A-BF5F-4AD2-8185-8E93192953FA} = {F64B57EF-37C4-4369-825D-DE03E7B82003}
 		{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE} = {E1993D13-5FAE-4D6C-9250-EFA95F7F2514}
+		{45507D5A-A24B-403B-A554-61F9B27FB020} = {BD5B1997-EFE1-42F4-A621-CF8F5C3499AA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09A5E917-55F1-4073-9D3D-6CF08E0E6CE3}
