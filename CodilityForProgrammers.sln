@@ -89,6 +89,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseArrayExercise", "Rev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountExercise", "CountExercise\CountExercise.csproj", "{45507D5A-A24B-403B-A554-61F9B27FB020}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCountingElements", "ExerciseCountingElements\ExerciseCountingElements.csproj", "{9C3CF286-AEF3-427D-863E-2FC85D103F7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -227,6 +229,10 @@ Global
 		{45507D5A-A24B-403B-A554-61F9B27FB020}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45507D5A-A24B-403B-A554-61F9B27FB020}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45507D5A-A24B-403B-A554-61F9B27FB020}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C3CF286-AEF3-427D-863E-2FC85D103F7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C3CF286-AEF3-427D-863E-2FC85D103F7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C3CF286-AEF3-427D-863E-2FC85D103F7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C3CF286-AEF3-427D-863E-2FC85D103F7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -265,6 +271,7 @@ Global
 		{FDE1320A-BF5F-4AD2-8185-8E93192953FA} = {F64B57EF-37C4-4369-825D-DE03E7B82003}
 		{73FB1ED5-39AA-46D3-B092-62FB9E0E12BE} = {E1993D13-5FAE-4D6C-9250-EFA95F7F2514}
 		{45507D5A-A24B-403B-A554-61F9B27FB020} = {BD5B1997-EFE1-42F4-A621-CF8F5C3499AA}
+		{9C3CF286-AEF3-427D-863E-2FC85D103F7E} = {A40573F9-7E0E-4558-BE5C-5F2BC9A3BC2B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09A5E917-55F1-4073-9D3D-6CF08E0E6CE3}
