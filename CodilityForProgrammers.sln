@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseCountingElements", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixSumsExercise", "PrefixSumsExercise\PrefixSumsExercise.csproj", "{9F6D93DB-1234-4588-B0AC-26C9A517E75D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StacksQueuesExercise", "StacksQueuesExercise\StacksQueuesExercise.csproj", "{630A404E-06A5-4EAC-BA44-840E6704BE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -239,6 +241,10 @@ Global
 		{9F6D93DB-1234-4588-B0AC-26C9A517E75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F6D93DB-1234-4588-B0AC-26C9A517E75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F6D93DB-1234-4588-B0AC-26C9A517E75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{630A404E-06A5-4EAC-BA44-840E6704BE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{630A404E-06A5-4EAC-BA44-840E6704BE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{630A404E-06A5-4EAC-BA44-840E6704BE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{630A404E-06A5-4EAC-BA44-840E6704BE64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -279,6 +285,7 @@ Global
 		{45507D5A-A24B-403B-A554-61F9B27FB020} = {BD5B1997-EFE1-42F4-A621-CF8F5C3499AA}
 		{9C3CF286-AEF3-427D-863E-2FC85D103F7E} = {A40573F9-7E0E-4558-BE5C-5F2BC9A3BC2B}
 		{9F6D93DB-1234-4588-B0AC-26C9A517E75D} = {4D0401BA-150D-4E75-BE05-3C9F928BDEE7}
+		{630A404E-06A5-4EAC-BA44-840E6704BE64} = {AE33EDCE-425D-4230-9A4D-C1FCD92F80F7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {09A5E917-55F1-4073-9D3D-6CF08E0E6CE3}
